@@ -46,6 +46,6 @@ I used this 30v one because it was the smallest I could get at the time, best pr
   
 If all is good you should should hear the fan run up to full speed for about 2 seconds on boot, then it will slow as the service takes control.
 
-As always, use at your own risk.
+As always, use at your own risk, no liability accepted, etc.
 
 MrBiz.
