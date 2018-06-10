@@ -7,7 +7,7 @@ Raspberry Pi CPU fan software control for 3 wire (with controller) or 4 wire fan
 This is a Pulse Width Modulation (PWM) fan controller for load and temperature monitored fan control for the Raspberry Pi.  
 Note: this may work with 2 wire fans (with controller) but it won't have RPM monitoring. I havn't tested setup yet though.
 
-Installation:
+# Installation:
 
 Copy all files to: /usr/local/sbin/fan/
 
@@ -22,7 +22,7 @@ The defaults should work but if you need to change anything in the configuration
 Install your heatsink on the Raspberry Pi CPU
 Mount your fan on the top of your heatsink
 
-Controller:
+# Controller:
 
 you will need:
 
