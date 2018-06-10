@@ -2,7 +2,7 @@
 
 V1.0
 
-Raspberry Pi CPU fan software control for 3 wire (with controller) or 4 wire fans.
+Raspberry Pi CPU fan software control for 3 wire (with controller) or 4 wire fans (without controller).
 
 This is a Pulse Width Modulation (PWM) fan controller for load and temperature monitored fan control for the Raspberry Pi.  
 Note: this may work with 2 wire fans (with controller) but it won't have RPM monitoring. I haven't tested that setup yet though.
