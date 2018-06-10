@@ -33,7 +33,7 @@ I used this 30v one because it was the smallest I could get at the time, best pr
   
  * Connect the red fan wire to GPIO5V (pin 4)
   
- * Connect the yellow fan wire to GPIO15 (pin 10)
+ * Connect the yellow fan wire (RPM Sensor) to GPIO15 (pin 10)
   
  * Connect the black fan wire to the Transisters collector (C)
   
