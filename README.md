@@ -24,7 +24,7 @@ Mount your fan on the top of your heatsink
 
 # Controller:
 
-you will need:
+You will need:
 
   * A 5 volt 3 wire fan.
   * An NPN transister: **BC549C** -  Bipolar (BJT) Single Transistor, NPN, 30 V, 250 MHz, 625 mW, 100 mA, 500 hFE 
@@ -42,7 +42,7 @@ I used this 30v one because it was the smallest I could get at the time, best pr
  * Connect the Transisters Base to GPIO14 (pin 8)
   
   
-  ***Images will come soon***.
+  *** Diagrams & Images will come soon***.
   
 If all is good you should should hear the fan run up to full speed for about 2 seconds on boot, then it will slow as the service takes control.
 
