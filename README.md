@@ -37,9 +37,9 @@ I used this 30v one because it was the smallest I could get at the time, best pr
   
  * Connect the black fan wire to the Transisters collector (C)
   
- * Connect the Transisters Emmitter to GPIOGround (pin 6)
+ * Connect the Transisters Emmitter (E) to GPIOGround (pin 6)
   
- * Connect the Transisters Base to GPIO14 (pin 8)
+ * Connect the Transisters Base (B) to GPIO14 (pin 8)
   
  **See 'ControllerDiag.png' for example**
  
