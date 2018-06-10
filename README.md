@@ -41,8 +41,8 @@ I used this 30v one because it was the smallest I could get at the time, best pr
   
  * Connect the Transisters Base to GPIO14 (pin 8)
   
-  
-  *** Diagrams & Images will come soon***.
+ **See 'ControllerDiag.png' for example**
+ 
   
 If all is good you should should hear the fan run up to full speed for about 2 seconds on boot, then it will slow as the service takes control.
 
